@@ -161,6 +161,10 @@ Built a Python and PySide6 customer-success dashboard that consolidates fictiona
 - Historical time-series data and health trend analysis
 - Evaluated predictive churn models alongside the transparent rules baseline
 
+## Development approach
+
+Developed with AI-assisted tools under human direction, review, testing, and refinement.
+
 ## License
 
 This project is available under the [MIT License](LICENSE).
